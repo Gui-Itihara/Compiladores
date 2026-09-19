@@ -1,7 +1,7 @@
 /*
 
 */
-#include "miniLex.h"
+#include "Lex.h"
 
 char *strAtomo[] = {"Erro lexico", "Constante Numerica", "Identificador","*", "+","Fim de buffer"};
 

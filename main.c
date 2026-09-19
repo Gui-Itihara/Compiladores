@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "miniLex.h"
+#include "Lex.h"
 
 // nomes dos atomos, na MESMA ORDEM do enum TAtomo no miniLex.h
 // (se voce adicionar/remover algo do enum, atualize aqui tambem)
